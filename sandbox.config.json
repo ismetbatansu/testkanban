@@ -1,0 +1,6 @@
+{
+  "template": "static",
+  "infiniteLoopProtection": false,
+  "hardReloadOnChange": false,
+  "disableLogging": false
+}
